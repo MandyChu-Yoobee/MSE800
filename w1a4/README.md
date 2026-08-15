@@ -1,4 +1,4 @@
-# Week1 - Activity 4:  Develop the BMI calculator - Due date: 8.8.26 at 8:00 AM
+# Week 1 - Activity 4:  Develop the BMI calculator - Due date: 8.8.26 at 8:00 AM
 
 Develop a Python CLI (Command-Line Interface) application for a BMI (Body Mass Index) calculator. Your project must include:
  
