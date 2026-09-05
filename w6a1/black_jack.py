@@ -67,8 +67,10 @@ def blackjack_game():
     else:
         print("You lose!")
 
-# Start the game
-while input("\nDo you want to play a game of Blackjack? Type 'y' or 'n': ").lower() == "y":
-    blackjack_game()
+if __name__ == "__main__":
+    # Start the game
+    print("Welcome to Blackjack!")
+    while input("\nDo you want to play a game of Blackjack? Type 'y' or 'n': ").lower() == "y":
+        blackjack_game()
 
 print("Thanks for playing!")
