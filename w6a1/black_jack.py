@@ -1,6 +1,6 @@
 import random
 
-# Define the card pool
+# Define the card pool as specified
 cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
 
 def draw_card():
